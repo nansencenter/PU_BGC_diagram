@@ -15,21 +15,21 @@ Set of python scripts for plotting diagrams for PU_BGC paper
    - CMEMS INSTAC [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207)
        - BGC Argo float data (PF): Chlorophyll-a, BBP/POC, Oxygen, Nitrate
        - Bottle sampled in situ data (BO): Chlorophyll-a, Nitreate, Silicate, Phosphate, Oxygen 
-- Variables: 
-   - 0-100m Nitrate
-   - 100-400m Nitrate
-   - 0-100m Phosphate
-   - 100-400m Phosphate
-   - 0-100m Silicate
-   - 100-400m Silicate
-   - 0-100m Nitrate
-   - 100-400m Nitrate
-   - 0-100m Chlorophyll-a
-   - 100-400m Chlorophyll-a
-   - 0-100m POC
-   - 100-400m POC
-   - 0-100m Oxygen
-   - 100-400m Oxygen
+- Variables [unit]: 
+   - 0-100m Nitrate [mmol/m3]
+   - 100-400m Nitrate [mmol/m3]
+   - 0-100m Phosphate [mmol/m3]
+   - 100-400m Phosphate [mmol/m3]
+   - 0-100m Silicate [mmol/m3]
+   - 100-400m Silicate [mmol/m3]
+   - 0-100m Nitrate [mmol/m3]
+   - 100-400m Nitrate [mmol/m3]
+   - 0-100m Chlorophyll-a [mg/m3]
+   - 100-400m Chlorophyll-a [mg/m3]
+   - 0-100m POC [mg/m3]
+   - 100-400m POC [mg/m3]
+   - 0-100m Oxygen [mmol/m3]
+   - 100-400m Oxygen [mmol/m3]
 
 ### Modified Taylor diagram
 
