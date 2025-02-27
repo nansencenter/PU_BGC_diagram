@@ -1,9 +1,30 @@
 # PU_BGC_diagram
 Set of python scripts for plotting diagrams for PU_BGC paper
 
-### Metrices
+### Metrices for PU_BGC model ensemble
 
 Period: 5 years (e.g., 2018-2022 for ARC MFC)
+Model:
+   . MFC BGC with data assimilation
+   . MFC BGC without data assimilation (control experiment)
+Independent Observations (Reference):
+   - BGC Argo Nitrate, Oxygen, Chlorophyll-a and BBP/POC
+   - CMEMS INSTAC 
+Variables: 
+   - 0-100m Nitrate
+   - 100-400m Nitrate
+   - 0-100m Phosphate
+   - 100-400m Phosphate
+   - 0-100m Silicate
+   - 100-400m Silicate
+   - 0-100m Nitrate
+   - 100-400m Nitrate
+   - 0-100m Chlorophyll-a
+   - 100-400m Chlorophyll-a
+   - 0-100m POC
+   - 100-400m POC
+   - 0-100m Oxygen
+   - 100-400m Oxygen
 
 ### Modified Taylor diagram
 
