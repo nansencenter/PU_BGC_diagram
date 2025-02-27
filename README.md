@@ -31,7 +31,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
    - 0-100m Oxygen [mmol/m3]
    - 100-400m Oxygen [mmol/m3]
 
-### Modified Taylor diagram [Taylor 2005](https://pcmdi.llnl.gov/staff/taylor/CV/Taylor_diagram_primer.pdf)
+### Modified Taylor diagram (see [Taylor 2005](https://pcmdi.llnl.gov/staff/taylor/CV/Taylor_diagram_primer.pdf)) 
 
 Sample modified Taylor diagram creatd by diagram_taylor.py. Data used in the sample plot are bogus. Input data are set of standard deviation, Pearson correlation in sample() is specified by
 
