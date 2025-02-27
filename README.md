@@ -7,9 +7,13 @@ Set of python scripts for plotting diagrams for PU_BGC paper
 - Model:
    - MFC BGC with data assimilation
    - MFC BGC without data assimilation (control experiment)
+- Model subdomains:
+   - ARC MFC Norwegian Sea
+   - ARC MFC Greenland Sea
+   - ARC MFC Subpolar Gyre 
 - Independent Observations (Reference):
    - BGC Argo Nitrate, Oxygen, Chlorophyll-a and BBP/POC
-   - CMEMS INSTAC 
+   - CMEMS INSTAC [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207)
 - Variables: 
    - 0-100m Nitrate
    - 100-400m Nitrate
