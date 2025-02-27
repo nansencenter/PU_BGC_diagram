@@ -7,6 +7,7 @@ Period: 5 years (e.g., 2018-2022 for ARC MFC)
 
 # Modified Taylor diagram
 
-Sample diagram creatd by ´test´
+Sample diagram creatd by diagram_taylor.py.
+
 
 ![Alt text](modified_taylor.png)
