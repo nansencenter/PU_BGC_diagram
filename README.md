@@ -1,5 +1,5 @@
 # PU_BGC_diagram
-Set of python scripts for plotting diagrams for PU_BGC paper
+Set of experiment setings and python scripts for plotting diagrams for PU_BGC paper
 
 ### Metrices for PU_BGC model ensemble
 
