@@ -12,8 +12,9 @@ Set of python scripts for plotting diagrams for PU_BGC paper
    - ARC MFC Greenland Sea
    - ARC MFC Subpolar Gyre 
 - Independent Observations (Reference):
-   - BGC Argo Nitrate, Oxygen, Chlorophyll-a and BBP/POC
    - CMEMS INSTAC [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207)
+       - BGC Argo float data (PF): Chlorophyll-a, BBP/POC, Oxygen, Nitrate
+       - Bottle sampled in situ data (BO): Chlorophyll-a, Nitreate, Silicate, Phosphate, Oxygen 
 - Variables: 
    - 0-100m Nitrate
    - 100-400m Nitrate
