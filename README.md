@@ -33,7 +33,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 
 ### Modified Taylor diagram (see [Taylor 2005](https://pcmdi.llnl.gov/staff/taylor/CV/Taylor_diagram_primer.pdf)) 
 
-Sample modified Taylor diagram creatd by diagram_taylor.py. Data used in the sample plot are bogus. Input data are set of standard deviation, Pearson correlation in sample() is specified by
+Sample modified Taylor diagram creatd by diagram_taylor.py. Data used in the sample plot are bogus. Input data are set of standard deviation, Pearson correlation in sample() specified by
 
 ```python
     stdref = 48.491 # reference (observation) standard deviation
