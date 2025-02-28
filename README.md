@@ -11,7 +11,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
    - ARC MFC Norwegian Sea
    - ARC MFC Greenland Sea
    - ARC MFC Subpolar Gyre
-   - other MFCs 
+   - other MFCs subdomains (e.g., MED WEST and MED EAST)
 - Independent Observations (Reference):
    - CMEMS INSTAC [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207)
        - BGC Argo float data (PF): Chlorophyll-a, BBP/POC, Oxygen, Nitrate
