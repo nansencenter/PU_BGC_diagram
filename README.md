@@ -3,7 +3,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 
 ## Updates
 
-- [02/28/2025] cmems_instac_loader.py added
+- [02/28/2025] cmems_instac_loader.py and config_user.yaml added
 
 ## Experiment Setups
 
