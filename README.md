@@ -5,12 +5,13 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 
 - Period: 5 years (e.g., 2017-2021 for ARC MFC)
 - Model:
-   - MFC BGC with data assimilation
-   - MFC BGC without data assimilation (control experiment)
+   - MFC BIO MY with data assimilation (CMEMS product)
+   - MFC BIO MY without data assimilation (control experiment)
 - Model subdomains:
    - ARC MFC Norwegian Sea
    - ARC MFC Greenland Sea
-   - ARC MFC Subpolar Gyre 
+   - ARC MFC Subpolar Gyre
+   - other MFCs 
 - Independent Observations (Reference):
    - CMEMS INSTAC [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207)
        - BGC Argo float data (PF): Chlorophyll-a, BBP/POC, Oxygen, Nitrate
