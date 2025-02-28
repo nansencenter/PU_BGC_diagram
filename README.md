@@ -8,7 +8,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 ## List of scripts
 
 - ```cmems_instac_loader.py``` to download [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207) with [Copernicus Marine Toolbox](https://help.marine.copernicus.eu/en/collections/9080063-copernicus-marine-toolbox)
-- ```diagram_taylor.py```
+- ```diagram_taylor.py``` to plot modified Taylor diagram (Note: under development)
 
 ## Usages
 
