@@ -46,7 +46,7 @@ Sample modified Taylor diagram creatd by diagram_taylor.py. Data used in the sam
     # [standard deviation, Pearson correlation, label]
 ```
 
-So it does not accept different source of data yet. I will modify the code soon that data can be imported by YAML file of the form:
+Since it does not accept different source of data yet, the code will be modified soon so that data can be imported by YAML file of the form:
 
 ```python
 datasets:
