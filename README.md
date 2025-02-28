@@ -5,6 +5,22 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 
 - [02/28/2025] cmems_instac_loader.py and config_user.yaml added
 
+## Usages
+
+### plot sample Taylor diagram
+
+```python
+python diagram_daylor.py
+```
+
+### check usage of ```cmems_instac_loader.py```
+
+```python
+python cmems_instac_loader.py
+```
+
+NOTE: Rewrite ```config_user.yaml``` to register your CMEMS ID before using ```cmems_instac_loader.py```
+
 ## Experiment Setups
 
 ### Metrices for PU_BGC BIO_MY diagnosis with model ensemble 
