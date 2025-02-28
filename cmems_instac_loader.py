@@ -117,7 +117,7 @@ if len(sys.argv) < 5:
     print(f"     year      : YYYY")
     print(f"     instrument: PF/BO        # aunomous float / bottle sampled")
     print(f"     variable  : nut/chl/ox   # nutrients / chlorophyll-a / oxygen")
-    print(f"     isload    : True/False   # download files or not")
+    print(f"     isload    : True/False   # download files or not (useful to check a list of files to be downloaded)")
     print(f"")
     print(f"  Filtering conditions (lat-lon and range of years) can be adjusted by bbox in fetch_cmems_data_list()")
     exit()
