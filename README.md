@@ -1,7 +1,7 @@
 # PU_BGC_diagram
 Set of experiment setings and python scripts for plotting diagrams for PU_BGC paper
 
-### Metrices for PU_BGC model ensemble
+### Metrices for PU_BGC BIO_MY diagnosis with model ensemble 
 
 - Period: 5 years (e.g., 2017-2021 for ARC MFC)
 - Model:
