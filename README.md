@@ -5,6 +5,11 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 
 - [02/28/2025] ```cmems_instac_loader.py``` and ```config_user.yaml``` added
 
+## List of scripts
+
+- ```cmems_instac_loader.py``` to download [Global Ocean - Delayed Mode Biogeochemical product](https://doi.org/10.17882/86207) with [Copernicus Marine Toolbox](https://help.marine.copernicus.eu/en/collections/9080063-copernicus-marine-toolbox)
+- ```diagram_taylor.py```
+
 ## Usages
 
 ### plot sample Taylor diagram
@@ -19,7 +24,7 @@ python diagram_taylor.py
 python cmems_instac_loader.py
 ```
 
-NOTE: Rewrite ```config_user.yaml``` to register your CMEMS ID before using ```cmems_instac_loader.py```
+NOTE: Rewrite ```config_user.yaml``` to register your Copernicus Marine credentials before using ```cmems_instac_loader.py```
 
 ## Experiment Setups
 
