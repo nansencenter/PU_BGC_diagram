@@ -10,7 +10,7 @@ Set of experiment setings and python scripts for plotting diagrams for PU_BGC pa
 ### plot sample Taylor diagram
 
 ```python
-python diagram_daylor.py
+python diagram_taylor.py
 ```
 
 ### check usage of ```cmems_instac_loader.py```
