@@ -1,5 +1,5 @@
 # PU_BGC_diagram
-Set of experiment setings and python scripts for plotting diagrams for PU_BGC paper
+Set of experiment setings and python scripts for plotting diagrams for PU_BGC [paper](https://mseduculiegebe-my.sharepoint.com/:f:/g/personal/mgregoire_uliege_be/Egk1DWz5_7JNlL6nQJqDZpkBJveCWEb-LGwqO3cVyeO6AQ?e=O9Ly7D) 
 
 ## Updates
 
